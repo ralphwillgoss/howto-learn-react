@@ -12,7 +12,7 @@ https://egghead.io/courses/react-fundamentals
 https://reactjs.co/#basic-preface  
 
 ### Setup your development environment
-I went through [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) to get myself familiar with setting up Node.js, NPM, Yarn, Gulp, Babel and ESLint.
+I went through [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)* to get myself familiar with setting up Node.js, NPM, Yarn, Gulp, Babel and ESLint.
 This tutorial covers many other aspects too (TDD, Redux) but if you do just chapters 1 - 8 it should be a great start.
 
 ## Where to next?
@@ -22,3 +22,9 @@ Once you have gone through the above tutorials I would assume a good litmus test
 * propTypes
 * Components
   * Binding (setState,  forceUpdate)
+  * 
+
+*This tutorial was developed on Linux and as I did it on windows.  
+You may notice that in Chapter 11, fsevent starts to throw some errors due to a package dependency not being available on Windows.  
+You can surpress this error by doing the following when adding:  
+`yarn add --dev mocha chai --ignore-optional`
