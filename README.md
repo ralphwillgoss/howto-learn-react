@@ -21,8 +21,7 @@ Once you have gone through the above tutorials I would assume a good litmus test
 * Props vs State
 * propTypes
 * Components
-  * Binding (setState,  forceUpdate)
-  * 
+  * [Lifecycle](https://facebook.github.io/react/docs/react-component.html)
 
 *This tutorial was developed on Linux, I did it on an Azure Windows 7 VM.  
 You may notice that in Chapter 11, fsevent starts to throw some errors due to a package dependency not being available on Windows.  
