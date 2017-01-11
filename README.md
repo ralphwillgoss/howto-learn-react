@@ -1,19 +1,26 @@
 # learning-react
 
 ## Intro
-Here are the resources I used in learning React.js  
+Here are the resources I used to learn the basics of `React.js`
 This is by no means a comprehensive guide and assumes the reader has prior programming knowledge.  
-All resources are free at the time of writing.
+All resources are free at the time of writing. 
+
+As a .Net developer new to the JS ecosystem, the number of choices can cause analysis paralysis.  
+I thought I would document how I previously skilled up on `React.js`.  
+You should be able to complete the content below in one afternoon and evening sitting.  
+The sooner you feel you have the basics down, you can start making something of value to yourself.
+
+## Setup your development environment
+This is not necessary to learn React.js, but as a precursor to the tutorials I found it very useful.  
+All tutorials I've listed below will take you through any necessary installations, as needed.  
+I went through [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)* to get myself familiar with setting up `Node.js`, `NPM`, `Yarn`, `Gulp`, `Babel` and `ESLint`.  
 
 ## Where to start
-### The Basics
+I would go through the following tutorials in order.  
 https://facebook.github.io/react/docs/tutorial.html  
 https://egghead.io/courses/react-fundamentals  
 https://reactjs.co/#basic-preface  
 
-### Setup your development environment
-I went through [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)* to get myself familiar with setting up Node.js, NPM, Yarn, Gulp, Babel and ESLint.  
-This tutorial covers many other aspects such as TDD, Redux, however if you do just chapters 1 - 8 it should be a great start.
 
 ## Where to next?
 Once you have gone through the above tutorials I would assume a good litmus test would be knowledge of the following:
