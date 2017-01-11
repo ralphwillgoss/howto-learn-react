@@ -1,7 +1,7 @@
 # learning-react
 
 ## Intro
-Here are the resources I used to learn the basics of `React.js`
+Here are the resources I used to learn the basics of `React.js`  
 This is by no means a comprehensive guide and assumes the reader has prior programming knowledge.  
 All resources are free at the time of writing. 
 
@@ -34,7 +34,7 @@ Starter kits provide a great starting point. [Andrew Farmer](http://andrewhfarme
 
 
 
-*The JS Stack from scratch tutorial was developed on Linux, I did it on an Azure Windows 7 VM.  
-You may notice that in Chapter 11, fsevent starts to throw some errors due to a package dependency not being available on Windows.  
+*The JS Stack from scratch tutorial was developed on Linux, I did it on a Windows 7 VM.  
+You may notice that in Chapter 11, `fsevent` starts to throw some errors due to a package dependency not being available on Windows.  
 You can surpress this error by doing the following when adding:  
 `yarn add --dev mocha chai --ignore-optional`
