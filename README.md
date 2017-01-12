@@ -32,11 +32,11 @@ Once you have gone through the above tutorials I would assume a good litmus test
 
 ### Starter Kits
 [Andrew Farmer](http://andrewhfarmer.com) provides a great reference to help narrow down a starter kit for your needs.   
-It can be found at http://andrewhfarmer.com/starter-project  
-Now that you have a basic knowledge of the ecosystem, the start packs and their contents will make more sense and will allow you to quickly get up and running.  
+It can be found at http://andrewhfarmer.com/starter-project.  
+Now that you have a basic knowledge of the ecosystem, the starter kits and their choice of packages will make more sense and will allow you to quickly get up and running.  
 
 
 *The JS Stack from scratch tutorial was developed on Linux, I did it on a Windows 7 VM.  
-You may notice that in Chapter 11, `fsevent` starts to throw some errors due to a package dependency not being available on Windows.   
+You may notice that in Chapter 11, `fsevent` starts to throw some errors due to a package dependency not being available on Windows.    
 You can surpress this error by doing the following when adding:  
 `yarn add --dev mocha chai --ignore-optional`
