@@ -37,7 +37,5 @@ Now that you have a basic knowledge of the ecosystem, the starter kits and their
 
 
 *The JS Stack from scratch tutorial was developed on Linux, I did it on a Windows 7 VM.  
-You may notice that in Chapter 11, `fsevent` starts to throw some errors due to a package dependency not being available on Windows.
-
-I've submitted a [PR](https://github.com/verekia/js-stack-from-scratch/pull/126) for this, you can surpress this error by doing the following when adding:  
+You may notice that in Chapter 11, `fsevent` starts to throw some errors due to a package dependency not being available on Windows. I've submitted a [PR](https://github.com/verekia/js-stack-from-scratch/pull/126) for this, you can surpress this error by doing the following when adding:  
 `yarn add --dev mocha chai --ignore-optional`
