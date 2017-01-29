@@ -20,7 +20,7 @@ I would go through the following tutorials in order.
 https://facebook.github.io/react/docs/tutorial.html  
 https://egghead.io/courses/react-fundamentals  
 https://reactjs.co/#basic-preface  
-
+https://github.com/facebookincubator/create-react-app
 
 ## Where to next?
 Once you have gone through the above tutorials I would assume a good litmus test would be knowledge of the following:
