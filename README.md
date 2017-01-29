@@ -29,6 +29,7 @@ Once you have gone through the above tutorials I would assume a good litmus test
 * propTypes
 * Components
   * [Lifecycle](https://facebook.github.io/react/docs/react-component.html)
+* https://auth0.com/blog/optimizing-react/
 
 ### Starter Kits
 [Andrew Farmer](http://andrewhfarmer.com) provides a great reference to help narrow down a starter kit for your needs.   
